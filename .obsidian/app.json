@@ -1,1 +1,9 @@
-{}
+{
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "incubation"
+}
