@@ -11,11 +11,28 @@
             "id": "90d988b76b76da69",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "projects/AutoTutor/Puck quotes to use for posts.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "73d9895830987ae8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/AutoTutor/StudyPuck requirements dialog.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "projects/AutoTutor/StudyPuck requirements dialog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "projects/AutoTutor/StudyPuck requirements dialog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "projects/AutoTutor/StudyPuck requirements dialog.md"
+              }
             }
           }
         ]
@@ -138,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90d988b76b76da69",
+  "active": "73d9895830987ae8",
   "lastOpenFiles": [
+    "projects/AutoTutor/Puck quotes to use for posts.md",
+    "projects/AutoTutor/StudyPuck requirements dialog.md",
     "README.md",
     "literature/Apache Pulsar in Action.md"
   ]
