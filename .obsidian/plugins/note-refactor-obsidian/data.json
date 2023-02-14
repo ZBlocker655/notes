@@ -1,0 +1,11 @@
+{
+  "includeFirstLineAsNoteHeading": false,
+  "excludeFirstLineInNote": false,
+  "headingFormat": "#",
+  "newFileLocation": 2,
+  "customFolder": "incubation",
+  "fileNamePrefix": "",
+  "transcludeByDefault": false,
+  "noteLinkTemplate": "{{new_note_link}}",
+  "refactoredNoteTemplate": "# {{title}}\n\n{{new_note_content}}\n"
+}

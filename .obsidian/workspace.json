@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "114ae18484d305af",
+        "id": "a81890bec4309c89",
         "type": "tabs",
         "children": [
           {
-            "id": "efb0d2c83e3a6c21",
+            "id": "7143824a2af5e9da",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efb0d2c83e3a6c21",
+  "active": "7143824a2af5e9da",
   "lastOpenFiles": [
+    "projects/AutoTutor/Puck quotes to use for posts.md",
     "projects/AutoTutor/StudyPuck requirements dialog.md",
-    "literature/Apache Pulsar in Action.md",
-    "README.md"
+    "README.md",
+    "literature/Apache Pulsar in Action.md"
   ]
 }
