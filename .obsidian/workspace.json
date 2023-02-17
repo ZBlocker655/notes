@@ -27,6 +27,7 @@
       {
         "id": "b8d7c28786c74c49",
         "type": "tabs",
+        "dimension": 71.53846153846153,
         "children": [
           {
             "id": "6704d87371344640",
@@ -52,7 +53,14 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9a424980acf85b84",
+        "type": "tabs",
+        "dimension": 28.461538461538463,
+        "children": [
           {
             "id": "5fd6c4c40126f762",
             "type": "leaf",

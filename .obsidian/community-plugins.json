@@ -1,5 +1,7 @@
 [
   "dataview",
   "note-refactor-obsidian",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-auto-link-title",
+  "obsidian-git"
 ]

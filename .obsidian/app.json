@@ -5,5 +5,7 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./",
   "newFileLocation": "folder",
-  "newFileFolderPath": "incubation"
+  "newFileFolderPath": "incubation",
+  "promptDelete": false,
+  "showUnsupportedFiles": true
 }
