@@ -4,5 +4,8 @@
   "templater-obsidian",
   "obsidian-auto-link-title",
   "obsidian-git",
-  "quickadd"
+  "quickadd",
+  "obsidian-kanban",
+  "recent-files-obsidian",
+  "url-into-selection"
 ]

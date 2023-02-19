@@ -58,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9a424980acf85b84",
@@ -70,6 +71,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd9644bcb5c6b2ed",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -155,7 +164,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6704d87371344640",
+  "active": "5fd6c4c40126f762",
   "lastOpenFiles": [
     "templates/daily.md",
     "projects/AutoTutor/Puck quotes to use for posts.md",
