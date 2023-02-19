@@ -11,8 +11,12 @@
             "id": "1548603f3ee55480",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/daily.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/daily.md"
+              }
             }
           }
         ]
@@ -147,7 +155,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1548603f3ee55480",
+  "active": "6704d87371344640",
   "lastOpenFiles": [
     "templates/daily.md",
     "projects/AutoTutor/Puck quotes to use for posts.md",

@@ -1,5 +1,6 @@
 ---
 created: <% tp.file.creation_date() %>
+alias: <% moment(tp.file.title,'YYYY-MM-DD').format("YYYY-MM-DD") %>
 ---
 
 # <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
