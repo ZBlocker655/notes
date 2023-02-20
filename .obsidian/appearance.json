@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Dracula for Obsidian"
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Avenir LT Std,Corbel",
+  "textFontFamily": "Avenir LT Std,Corbel",
+  "theme": "obsidian",
+  "baseFontSize": 19
 }

@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/daily.md",
+                "file": "literature/Apache Pulsar in Action.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9a424980acf85b84",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/daily.md",
+                "file": "literature/Apache Pulsar in Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/daily.md",
+                "file": "literature/Apache Pulsar in Action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/daily.md"
+                "file": "literature/Apache Pulsar in Action.md"
               }
             }
           }
@@ -164,12 +163,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5fd6c4c40126f762",
+  "active": "1548603f3ee55480",
   "lastOpenFiles": [
     "templates/daily.md",
-    "projects/AutoTutor/Puck quotes to use for posts.md",
+    "literature/Apache Pulsar in Action.md",
     "projects/AutoTutor/StudyPuck requirements dialog.md",
-    "README.md",
-    "literature/Apache Pulsar in Action.md"
+    "projects/AutoTutor/Puck quotes to use for posts.md",
+    "README.md"
   ]
 }
