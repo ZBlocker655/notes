@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "82044ce4dd6114c5",
+        "id": "01a6086ced858dda",
         "type": "tabs",
         "children": [
           {
-            "id": "1548603f3ee55480",
+            "id": "b345d7ff23ea142d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "literature/Apache Pulsar in Action.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -57,8 +53,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "345f269a788f14c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "9a424980acf85b84",
@@ -96,12 +104,25 @@
         "type": "tabs",
         "children": [
           {
+            "id": "5f5320ef105f7e73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6e992f83d78dc159",
+        "type": "tabs",
+        "children": [
+          {
             "id": "50c75e4049c99e3b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature/Apache Pulsar in Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,30 +139,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literature/Apache Pulsar in Action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "345f269a788f14c2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "5f5320ef105f7e73",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "literature/Apache Pulsar in Action.md"
               }
             }
           }
@@ -149,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,10 +161,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1548603f3ee55480",
+  "active": "50c75e4049c99e3b",
   "lastOpenFiles": [
-    "templates/daily.md",
     "literature/Apache Pulsar in Action.md",
+    "templates/daily.md",
     "projects/AutoTutor/StudyPuck requirements dialog.md",
     "projects/AutoTutor/Puck quotes to use for posts.md",
     "README.md"
