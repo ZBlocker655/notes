@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "01a6086ced858dda",
+        "id": "f6e284b49f2eacdd",
         "type": "tabs",
         "children": [
           {
-            "id": "b345d7ff23ea142d",
+            "id": "ccce6d7024e5c2df",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "9a424980acf85b84",
@@ -161,7 +160,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50c75e4049c99e3b",
+  "active": "ccce6d7024e5c2df",
   "lastOpenFiles": [
     "literature/Apache Pulsar in Action.md",
     "templates/daily.md",
