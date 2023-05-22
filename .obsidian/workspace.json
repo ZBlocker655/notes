@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "a05262007decda32",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,6 +74,14 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "dc70a44941b37a37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -160,7 +179,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ccce6d7024e5c2df",
+  "active": "a05262007decda32",
   "lastOpenFiles": [
     "literature/Apache Pulsar in Action.md",
     "templates/daily.md",
