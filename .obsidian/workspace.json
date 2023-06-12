@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "a05262007decda32",
+            "id": "8f40e697f58bf507",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.2.7"
+                "currentVersion": "1.3.5"
               }
             }
           }
@@ -179,7 +179,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a05262007decda32",
+  "active": "8f40e697f58bf507",
   "lastOpenFiles": [
     "literature/Apache Pulsar in Action.md",
     "templates/daily.md",
