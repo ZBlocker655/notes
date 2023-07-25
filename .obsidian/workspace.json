@@ -14,19 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "8f40e697f58bf507",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +168,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f40e697f58bf507",
+  "active": "ccce6d7024e5c2df",
   "lastOpenFiles": [
     "literature/Apache Pulsar in Action.md",
     "templates/daily.md",
