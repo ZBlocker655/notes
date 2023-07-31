@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f6e284b49f2eacdd",
+        "id": "752d834d70469517",
         "type": "tabs",
         "children": [
           {
-            "id": "ccce6d7024e5c2df",
+            "id": "508d684a12984cab",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -64,14 +64,6 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "dc70a44941b37a37",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       },
@@ -81,22 +73,23 @@
         "dimension": 28.461538461538463,
         "children": [
           {
-            "id": "5fd6c4c40126f762",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "bd9644bcb5c6b2ed",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "dc70a44941b37a37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,6 +143,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "ccce6d7024e5c2df",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -168,12 +169,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ccce6d7024e5c2df",
+  "active": "508d684a12984cab",
   "lastOpenFiles": [
-    "literature/Apache Pulsar in Action.md",
+    "README.md",
     "templates/daily.md",
-    "projects/AutoTutor/StudyPuck requirements dialog.md",
-    "projects/AutoTutor/Puck quotes to use for posts.md",
-    "README.md"
+    "projects/StudyPuck/StudyPuck requirements dialog.md",
+    "projects/StudyPuck/Puck quotes to use for posts.md",
+    "literature/Apache Pulsar in Action.md"
   ]
 }
