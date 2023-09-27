@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "daily",
       "path": "templates/daily.md"
+    },
+    {
+      "basename": "Apache Pulsar in Action",
+      "path": "literature/Apache Pulsar in Action.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "StudyPuck requirements dialog",
@@ -15,10 +19,6 @@
     {
       "basename": "Puck quotes to use for posts",
       "path": "projects/StudyPuck/Puck quotes to use for posts.md"
-    },
-    {
-      "basename": "Apache Pulsar in Action",
-      "path": "literature/Apache Pulsar in Action.md"
     }
   ],
   "omittedPaths": [],
