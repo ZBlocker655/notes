@@ -1,6 +1,7 @@
 ---
 type: book
 subject: [[Pulsar]]
+author: 
 ---
 
 # Chapter 1 - Intro to Pulsar

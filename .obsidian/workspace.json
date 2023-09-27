@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4b28bd3fdb1ed1e7",
+        "id": "c8bab456603e7a96",
         "type": "tabs",
         "children": [
           {
-            "id": "2ddda8050723d54b",
+            "id": "2b504d53074cb942",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "literature/2023/Ultralearning.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -109,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/daily.md"
+                "file": "literature/2023/Ultralearning.md"
               }
             }
           }
@@ -125,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/daily.md",
+                "file": "literature/2023/Ultralearning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/daily.md",
+                "file": "literature/2023/Ultralearning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,12 +177,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6704d87371344640",
+  "active": "2b504d53074cb942",
   "lastOpenFiles": [
-    "literature/Apache Pulsar in Action.md",
-    "README.md",
-    "templates/daily.md",
+    "literature/2023/Ultralearning.md",
+    "literature/2023/Apache Pulsar in Action.md",
+    "literature/2023",
     "projects/StudyPuck/StudyPuck requirements dialog.md",
-    "projects/StudyPuck/Puck quotes to use for posts.md"
+    "projects/StudyPuck/Puck quotes to use for posts.md",
+    "templates/daily.md",
+    "README.md"
   ]
 }
