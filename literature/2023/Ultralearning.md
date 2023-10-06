@@ -45,13 +45,20 @@ There are no specific repeatable steps to an ultralearning project; it will look
 8. **Intuition**: Learn to understand subjects deeply by playing and exploring (and attempting to teach others!)  This is more effective than mere rote memorization.
 9. **Experimentation**: Explore on your own; don't just follow the path laid down by others.
 # Chapter 4: Principle 1: Metalearning
-- 56 learn how subject works is heart of success
-- 57 why/what/how
-- 60 expert interview- a way to gain learning map, validate project
-- 61 even if intrinsic, asking why is helpful
-- 61-2 concept/fact/procedure knowledge map
-- 66 10% rule
-- 69 long term metalearning is best benefit, universal. "How to learn hard things"
+55
+It's important to build an internal map of how a subject must be learned. Metalearning is the process by which that map is created. In other words, metalearning is "learning how to learn".  Having a good learning map of a subject is the key to successful learning.
+
+57
+A useful way to break down the metalearning process is to identify the "Why?", "What?" and "How?" aspects:
+- **"Why?"** involves figuring out your motivation in learning something, which might at first seem tangential, but in fact helps shape your learning map, since you're not trying to learning an entire subject, but only the parts of that subject that help fulfill your personal learning goals.
+- **"What?"** refers to the contents of your learning map. It describes the concepts, facts, and procedures you'll need to learn as part of your map.
+- **"How?"** refers to the tools, books, and other resources you will use during learning.
+
+60 expert interview- a way to gain learning map, validate project
+61 even if intrinsic, asking why is helpful
+61-2 concept/fact/procedure knowledge map
+66 10% rule
+69 long term metalearning is best benefit, universal. "How to learn hard things"
 
 # Chapter 5: Principle 2: Focus: Sharpen Your Knife
 - 74 recognize you are procrastinating (step 1)
