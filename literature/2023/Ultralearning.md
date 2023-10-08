@@ -54,9 +54,21 @@ A useful way to break down the metalearning process is to identify the "Why?", "
 - **"What?"** refers to the contents of your learning map. It describes the concepts, facts, and procedures you'll need to learn as part of your map.
 - **"How?"** refers to the tools, books, and other resources you will use during learning.
 
-60 expert interview- a way to gain learning map, validate project
-61 even if intrinsic, asking why is helpful
-61-2 concept/fact/procedure knowledge map
+60
+Interviewing an expert in the subject you want to learn is an effective way to determine if your proposed ultralearning project will actually achieve the goals you want for it. The expert can help validate your project, and help you with your learning map.
+
+61
+Even if the reasoning behind your learning project is intrinsic (i.e. the reasons why you want to do it are obvious), it's still important to ask "Why?" you want to learn it. The answers can help you shape your own learning map, which might end up looking substantially different from a standard learning map of this subject.
+
+61-2
+When answering the "What?" aspect of metalearning (i.e. "What is the content of my learning map?") you can break it down into three groups: **concepts**, **facts**, and **procedures**.
+
+**Concepts** is everything you need to understand. For example, math theorems and terms, legal principles, etc.
+
+**Facts** is anything you might need to memorize. For example, vocabulary words in a language.
+
+**Procedures** is anything you need to practice, for example, properly pronouncing words in a language.
+
 66 10% rule
 69 long term metalearning is best benefit, universal. "How to learn hard things"
 
