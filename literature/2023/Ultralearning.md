@@ -28,7 +28,7 @@ call to ultralearning - vision, curiosity, challenge
 34:
 Taking on and accomplishing difficult learning challenges can change how you see yourself. It helps you understand that you can stretch your own limits and become capable of new things you didn't think were possible before.
 
-# Chapter 2: How to Become an Ultralearner
+# Chapter 3: How to Become an Ultralearner
 
 46
 Even if you fail in your own stated ultralearning goal, you will still likely come out of it having learned a new skill well.
@@ -69,22 +69,47 @@ When answering the "What?" aspect of metalearning (i.e. "What is the content of 
 
 **Procedures** is anything you need to practice, for example, properly pronouncing words in a language.
 
-66 10% rule
-69 long term metalearning is best benefit, universal. "How to learn hard things"
+66
+The 10% Rule is a quick guideline to determine how much time to spend metalearning - aka learning how to learn, when doing an ultralearning project. When in doubt, spend approximately 10% of your time researching (or metalearning) and the rest of the time actually learning.
+
+69
+While metalearning can have short-term benefits for the current ultralearning project, its true benefit is long-term (and applicable to any other ultralearning project) - it is the ability to learn hard things.
 
 # Chapter 5: Principle 2: Focus: Sharpen Your Knife
-- 74 recognize you are procrastinating (step 1)
-- 75 impulse to procrastinate (whether due to aversion or distraction) doesn't last long
-- 76 progressive strategies
-- 78 Flow not necessarily compatible with ultralearning
-- 80 prepare environment for UL
-- 81 reading hypnosis - pantomiming reading
+74
+Learn to recognize when you are procrastinating; that is the first step to avoiding procrastination.
+
+75
+The impulse to procrastinate is actually quite a short-lived impulse. If you can stick to the task for even a few minutes, you should be able to outlast that impulse.
+
+78
+Flow, or being "in the zone", is not the same thing as "deliberate practice" - the latter requires constantly checking progress against goals and obtaining feedback; it doesn't seem to be compatible with a flow state.
+
+80
+Prepare your environment well for an ultralearning project. Try to remove distractions, and make sure everything you need is at hand (so you're not distracted getting up to look for it.)
+
+81
+When reading something difficult, there is a danger of entering into "reading hypnosis" where one is only "pantomiming the act of reading", that is following the words one at a time and turning pages, but having ceased to truly analyze and understand what one is reading. 
+
+One possible remedy to reading hypnosis is a more active reading approach of taking short notes and regularly checking one's understanding.
 # Chapter 6: Principle 3: Directness: Go Straight Ahead
-- 92 Tempting to avoid direct learning by doing something easier or more fun
-- 97 direct learning solved problem of transfer; most formal learning indirect
-- 97-8 learn knowledge as it interacts with reality
-- 99 Build knowledge outward from kernel of situation
-- 101 tactics for direct learning: project etc
+92
+A direct learning approach is often difficult and uncomfortable. For example, speaking a language that you are learning.  It can be very tempting to fall into poorer learning strategies by doing something that seems easier and more fun, like simply watching videos about the language you are learning.
+
+94
+**Transfer** is a word used in education to describe when you learn something in one context, and are able to apply it in a completely different context.
+
+It is an ability that formal education has notoriously failed to instill in many students.
+
+97
+direct learning solved problem of transfer; most formal learning indirect
+
+
+97-8 learn knowledge as it interacts with reality
+
+99 Build knowledge outward from kernel of situation
+
+101 tactics for direct learning: project etc
 # Chapter 7: Principle 4: Drill: Attack Your Weakest Point
 - 110 identify rate determining step in learning and drill on it
 - 112 seeming tension between direct and drill, but you have to alternate between them
