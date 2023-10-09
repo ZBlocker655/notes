@@ -6,7 +6,7 @@ author: Scott Young
 # Chapter 2: Why ultralearning matters
 
 27:
-The best times and happiest moments don't come from mere pleasure; they come from solving difficult challenges and realizing we are capable of more than we previously thought.
+[[best times come from solving difficult challenges]]
 
 27-28:
 As technology advances and everything integrates on a global scale, the era of "average" skills is ending.  Either you have highly sophisticated technical skills, or you are relegated to various non-skilled job opportunities. The good news is that you can learn _how_ to learn new skills deeply, and thereby have a chance to compete in this new world.
@@ -99,17 +99,26 @@ A direct learning approach is often difficult and uncomfortable. For example, sp
 94
 **Transfer** is a word used in education to describe when you learn something in one context, and are able to apply it in a completely different context.
 
-It is an ability that formal education has notoriously failed to instill in many students.
+It is an ability that formal education has notoriously failed to instill in many students.  This institutional failure to help students apply what they have learned in other contexts is therefore called the **Problem of Transfer**.
 
-97
-direct learning solved problem of transfer; most formal learning indirect
+97-99
+Directness in learning can help solve the problem of transfer. 
 
+If you learn with a "direct connection" to the context in which you want to apply the skill, you don't need as much transfer to occur. 
 
-97-8 learn knowledge as it interacts with reality
+Furthermore, if you can achieve transfer once in a given skill, it becomes even easier to achieve transfer with that same skill in completely _new_ contexts.
 
-99 Build knowledge outward from kernel of situation
+One reason that formal learning doesn't prepare students well for transfer is that this kind of learning is indirect (context-free) rather than direct.
 
-101 tactics for direct learning: project etc
+Another way to express this is that you should "learn knowledge as it interacts with reality." That is, always keep your desired context in mind _as_ you learn. Do not learn context-free.  "Build knowledge outward from the kernel of a real situation."
+
+101
+Some basic tactics for direct learning are:
+1. **Project** - Produce or create something related to what you're learning. If you're learning a coding language, for example, do a project to build something using that language.
+2. **Immersive** - Surround yourself with the environment where you must always be practicing the skill. If you're learning to speak a language, put yourself among people speaking that language.
+3. **Simulator** - If you can't practice a skill directly (e.g. performing surgery) do the best you can to simulate it accurately.
+4. **Overkill** - Increase the challenge so the "skill level is wholly contained within the goal that is set."
+
 # Chapter 7: Principle 4: Drill: Attack Your Weakest Point
 - 110 identify rate determining step in learning and drill on it
 - 112 seeming tension between direct and drill, but you have to alternate between them
