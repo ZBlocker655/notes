@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56812b42a2734e4b",
+        "id": "6a63246a9e9b389e",
         "type": "tabs",
         "children": [
           {
-            "id": "0cb9e600c6de247f",
+            "id": "69e2dcda0ab8d61c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,10 +177,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0cb9e600c6de247f",
+  "active": "69e2dcda0ab8d61c",
   "lastOpenFiles": [
-    "incubation/best times come from solving difficult challenges.md",
+    "incubation/reasons to do ultralearning.md",
     "literature/2023/Ultralearning.md",
+    "incubation/best times come from solving difficult challenges.md",
+    "incubation/era of average skills is ending.md",
     "literature/2023/Apache Pulsar in Action.md",
     "literature/2023",
     "projects/StudyPuck/StudyPuck requirements dialog.md",
