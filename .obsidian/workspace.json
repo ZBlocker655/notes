@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "64115bdea29dbf7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "incubation/era of average skills is ending.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -179,11 +192,11 @@
   },
   "active": "69e2dcda0ab8d61c",
   "lastOpenFiles": [
-    "incubation/reasons to do ultralearning.md",
+    "incubation/era of average skills is ending.md",
     "literature/2023/Ultralearning.md",
     "incubation/best times come from solving difficult challenges.md",
-    "incubation/era of average skills is ending.md",
     "literature/2023/Apache Pulsar in Action.md",
+    "incubation/reasons to do ultralearning.md",
     "literature/2023",
     "projects/StudyPuck/StudyPuck requirements dialog.md",
     "projects/StudyPuck/Puck quotes to use for posts.md",

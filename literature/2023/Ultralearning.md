@@ -1,6 +1,7 @@
 ---
 type: book
 author: Scott Young
+year: 2019
 ---
 
 # Chapter 2: Why ultralearning matters
