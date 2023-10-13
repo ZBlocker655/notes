@@ -5,20 +5,40 @@
       "path": "literature/2023/Ultralearning.md"
     },
     {
-      "basename": "era of average skills is ending",
-      "path": "incubation/era of average skills is ending.md"
+      "basename": "overcoming challenges changes how you see yourself",
+      "path": "incubation/overcoming challenges changes how you see yourself.md"
+    },
+    {
+      "basename": "self-education is an affordable alternative to university",
+      "path": "incubation/self-education is an affordable alternative to university.md"
+    },
+    {
+      "basename": "reasons to do ultralearning",
+      "path": "incubation/reasons to do ultralearning.md"
     },
     {
       "basename": "best times come from solving difficult challenges",
       "path": "incubation/best times come from solving difficult challenges.md"
     },
     {
+      "basename": "era of average skills is ending",
+      "path": "incubation/era of average skills is ending.md"
+    },
+    {
+      "basename": "permanote",
+      "path": "templates/permanote.md"
+    },
+    {
+      "basename": "daily",
+      "path": "templates/daily.md"
+    },
+    {
       "basename": "Apache Pulsar in Action",
       "path": "literature/2023/Apache Pulsar in Action.md"
     },
     {
-      "basename": "reasons to do ultralearning",
-      "path": "incubation/reasons to do ultralearning.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "StudyPuck requirements dialog",
@@ -27,14 +47,6 @@
     {
       "basename": "Puck quotes to use for posts",
       "path": "projects/StudyPuck/Puck quotes to use for posts.md"
-    },
-    {
-      "basename": "daily",
-      "path": "templates/daily.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

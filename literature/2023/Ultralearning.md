@@ -13,9 +13,7 @@ year: 2019
 [[era of average skills is ending]]
 
 29:
-College tuitions are getting more expensive and more and more people cannot afford college. This makes self-education (and being skilled at self-education) a necessary alternative approach to acquiring skills. 
-
-The skills required for one's field (especially technology) also change constantly. It wouldn't be possible or practical to go back to school every time one had to learn a new skill.
+[[self-education is an affordable alternative to university]]
 
 32:
 3 main cases for ultralearning:
@@ -27,7 +25,7 @@ The skills required for one's field (especially technology) also change constant
 call to ultralearning - vision, curiosity, challenge
 
 34:
-Taking on and accomplishing difficult learning challenges can change how you see yourself. It helps you understand that you can stretch your own limits and become capable of new things you didn't think were possible before.
+[[overcoming challenges changes how you see yourself]]
 
 # Chapter 3: How to Become an Ultralearner
 

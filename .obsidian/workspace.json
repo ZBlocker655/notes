@@ -18,18 +18,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "64115bdea29dbf7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "incubation/era of average skills is ending.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
         "stacked": true
@@ -192,15 +180,18 @@
   },
   "active": "69e2dcda0ab8d61c",
   "lastOpenFiles": [
-    "incubation/era of average skills is ending.md",
+    "incubation/overcoming challenges changes how you see yourself.md",
     "literature/2023/Ultralearning.md",
-    "incubation/best times come from solving difficult challenges.md",
-    "literature/2023/Apache Pulsar in Action.md",
+    "incubation/self-education is an affordable alternative to university.md",
     "incubation/reasons to do ultralearning.md",
+    "incubation/best times come from solving difficult challenges.md",
+    "incubation/era of average skills is ending.md",
+    "templates/permanote.md",
+    "templates/daily.md",
+    "literature/2023/Apache Pulsar in Action.md",
+    "README.md",
     "literature/2023",
     "projects/StudyPuck/StudyPuck requirements dialog.md",
-    "projects/StudyPuck/Puck quotes to use for posts.md",
-    "templates/daily.md",
-    "README.md"
+    "projects/StudyPuck/Puck quotes to use for posts.md"
   ]
 }
