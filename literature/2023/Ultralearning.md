@@ -33,46 +33,28 @@ call to ultralearning - vision, curiosity, challenge
 Even if you fail in your own stated ultralearning goal, you will still likely come out of it having learned a new skill well.
 
 47
-There are no specific repeatable steps to an ultralearning project; it will look very different for different types of projects. Rather, the best way to understand ultralearning is to understand the basic principles common to every ultralearning project.  These are:
-1. **Metalearning**: learning _how_ to learn your subject
-2. **Focus**: concentrate well - this is the practical matter of time management, concentration, battling procrastination, etc.
-3. **Directness**: Choose learning tasks that attack the skill you want to learn directly. Don't allow yourself to get sidetracked on tasks that seem easier or more fun.
-4. **Drill**: Tactically, how to go about learning and mastering skills. It's all about breaking things down well and mastering one piece at a time. _This ability to break down skills and master them one small piece at a time is also called "deliberate practice"._
-5. **Retrieval**: Active recall is more effective for learning than passive reading.
-6. **Feedback**: Constant, regular feedback is the way to tell how much you're actually learning; it provides the opportunity to adjust your learning methods if it doesn't seem to be working well.
-7. **Retention**: Practice the skill of remembering.
-8. **Intuition**: Learn to understand subjects deeply by playing and exploring (and attempting to teach others!)  This is more effective than mere rote memorization.
-9. **Experimentation**: Explore on your own; don't just follow the path laid down by others.
+[[common principles of ultralearning]]
 # Chapter 4: Principle 1: Metalearning
 55
-It's important to build an internal map of how a subject must be learned. Metalearning is the process by which that map is created. In other words, metalearning is "learning how to learn".  Having a good learning map of a subject is the key to successful learning.
+[[Metalearning]]
 
 57
-A useful way to break down the metalearning process is to identify the "Why?", "What?" and "How?" aspects:
-- **"Why?"** involves figuring out your motivation in learning something, which might at first seem tangential, but in fact helps shape your learning map, since you're not trying to learning an entire subject, but only the parts of that subject that help fulfill your personal learning goals.
-- **"What?"** refers to the contents of your learning map. It describes the concepts, facts, and procedures you'll need to learn as part of your map.
-- **"How?"** refers to the tools, books, and other resources you will use during learning.
+[[why, what, and how aspects of metalearning]]
 
 60
-Interviewing an expert in the subject you want to learn is an effective way to determine if your proposed ultralearning project will actually achieve the goals you want for it. The expert can help validate your project, and help you with your learning map.
+[[subject expert interview]]
 
 61
-Even if the reasoning behind your learning project is intrinsic (i.e. the reasons why you want to do it are obvious), it's still important to ask "Why?" you want to learn it. The answers can help you shape your own learning map, which might end up looking substantially different from a standard learning map of this subject.
+[[important to ask 'why' in the metalearning phase]]
 
 61-2
-When answering the "What?" aspect of metalearning (i.e. "What is the content of my learning map?") you can break it down into three groups: **concepts**, **facts**, and **procedures**.
-
-**Concepts** is everything you need to understand. For example, math theorems and terms, legal principles, etc.
-
-**Facts** is anything you might need to memorize. For example, vocabulary words in a language.
-
-**Procedures** is anything you need to practice, for example, properly pronouncing words in a language.
+[[how to break down a subject in metalearning phase]]
 
 66
-The 10% Rule is a quick guideline to determine how much time to spend metalearning - aka learning how to learn, when doing an ultralearning project. When in doubt, spend approximately 10% of your time researching (or metalearning) and the rest of the time actually learning.
+[[metalearning 10% rule]]
 
 69
-While metalearning can have short-term benefits for the current ultralearning project, its true benefit is long-term (and applicable to any other ultralearning project) - it is the ability to learn hard things.
+[[ability to learn hard things]]
 
 # Chapter 5: Principle 2: Focus: Sharpen Your Knife
 74
