@@ -3,7 +3,7 @@ created: 2023-10-14 00:08
 ---
 
 There are no specific repeatable steps to an ultralearning project; it will look very different for different types of projects. Rather, the best way to understand ultralearning is to understand the basic principles common to every ultralearning project.  These are:
-1. **[[Metalearning]]**: learning _how_ to learn your subject
+1. **[[metalearning]]**: learning _how_ to learn your subject
 2. **Focus**: concentrate well - this is the practical matter of time management, concentration, battling procrastination, etc.
 3. **Directness**: Choose learning tasks that attack the skill you want to learn directly. Don't allow yourself to get sidetracked on tasks that seem easier or more fun.
 4. **Drill**: Tactically, how to go about learning and mastering skills. It's all about breaking things down well and mastering one piece at a time. _This ability to break down skills and master them one small piece at a time is also called "deliberate practice"._
@@ -19,4 +19,4 @@ There are no specific repeatable steps to an ultralearning project; it will look
 # Topics
 
 - [[Self-education]]
-- [[Metalearning]]
+- [[metalearning]]

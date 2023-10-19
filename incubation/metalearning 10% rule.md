@@ -9,4 +9,4 @@ The 10% Rule is a quick guideline to determine how much time to spend metalearni
 - 
 # Topics
 
-- [[Metalearning]]
+- [[metalearning]]

@@ -9,5 +9,5 @@ Interviewing an expert in the subject you want to learn is an effective way to d
 - [[self-education is an affordable alternative to university]]
 # Topics
 
-- [[Metalearning]]
+- [[metalearning]]
 - [[Self-education]]

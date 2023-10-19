@@ -2,6 +2,8 @@
 type: book
 author: Scott Young
 year: 2019
+subjects:
+- [[Self-education]]
 ---
 
 # Chapter 2: Why ultralearning matters
@@ -36,7 +38,7 @@ Even if you fail in your own stated ultralearning goal, you will still likely co
 [[common principles of ultralearning]]
 # Chapter 4: Principle 1: Metalearning
 55
-[[Metalearning]]
+[[metalearning]]
 
 57
 [[why, what, and how aspects of metalearning]]

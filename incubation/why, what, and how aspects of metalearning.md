@@ -12,4 +12,4 @@ A useful way to break down the [[metalearning]] process is to identify the "Why?
 - 
 # Topics
 
-- [[Metalearning]]
+- [[metalearning]]

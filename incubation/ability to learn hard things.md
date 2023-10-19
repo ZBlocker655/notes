@@ -10,4 +10,4 @@ While [[metalearning]] can have short-term benefits for the current ultralearnin
 # Topics
 
 - [[Self-education]]
-- [[Metalearning]]
+- [[metalearning]]

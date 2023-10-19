@@ -15,4 +15,4 @@ When answering the "What?" aspect of metalearning (i.e. "What is the content of 
 - [[why, what, and how aspects of metalearning]]
 # Topics
 
-- [[Metalearning]]
+- [[metalearning]]

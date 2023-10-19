@@ -9,4 +9,4 @@ Even if the reasoning behind your learning project is intrinsic (i.e. the reason
 - [[why, what, and how aspects of metalearning]]
 # Topics
 
-- [[Metalearning]]
+- [[metalearning]]

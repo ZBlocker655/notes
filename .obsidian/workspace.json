@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a63246a9e9b389e",
+        "id": "8ab36d8fe6107a03",
         "type": "tabs",
         "children": [
           {
-            "id": "69e2dcda0ab8d61c",
+            "id": "fc5f9de76bc6f861",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literature/2023/Ultralearning.md",
+                "file": "literature/2023/Is Tech Lead the WORST Job for Most Programmers.md",
                 "mode": "source",
                 "source": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature/2023/Ultralearning.md"
+                "file": "literature/2023/Is Tech Lead the WORST Job for Most Programmers.md"
               }
             }
           }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature/2023/Ultralearning.md",
+                "file": "literature/2023/Is Tech Lead the WORST Job for Most Programmers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literature/2023/Ultralearning.md",
+                "file": "literature/2023/Is Tech Lead the WORST Job for Most Programmers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,11 +178,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "69e2dcda0ab8d61c",
+  "active": "fc5f9de76bc6f861",
   "lastOpenFiles": [
-    "incubation/ability to learn hard things.md",
+    "incubation/metalearning.md",
+    "literature/2023/Is Tech Lead the WORST Job for Most Programmers.md",
     "literature/2023/Ultralearning.md",
-    "incubation/Metalearning.md",
+    "incubation/ability to learn hard things.md",
     "incubation/metalearning 10% rule.md",
     "incubation/how to break down a subject in metalearning phase.md",
     "incubation/important to ask 'why' in the metalearning phase.md",
