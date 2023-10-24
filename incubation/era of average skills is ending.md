@@ -4,4 +4,4 @@ As technology advances and everything integrates on a global scale, the era of "
 
 # Topics
 
-- [[Self-education]]
+- [[self-education]]

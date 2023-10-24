@@ -60,21 +60,19 @@ Even if you fail in your own stated ultralearning goal, you will still likely co
 
 # Chapter 5: Principle 2: Focus: Sharpen Your Knife
 74
-Learn to recognize when you are procrastinating; that is the first step to avoiding procrastination.
+[[recognize when you are procrastinating]]
 
 75
-The impulse to procrastinate is actually quite a short-lived impulse. If you can stick to the task for even a few minutes, you should be able to outlast that impulse.
+[[impulse to procrastinate is short-lived]]
 
 78
-Flow, or being "in the zone", is not the same thing as "deliberate practice" - the latter requires constantly checking progress against goals and obtaining feedback; it doesn't seem to be compatible with a flow state.
+[[flow is not the same thing as deliberate practice]]
 
 80
 Prepare your environment well for an ultralearning project. Try to remove distractions, and make sure everything you need is at hand (so you're not distracted getting up to look for it.)
 
 81
-When reading something difficult, there is a danger of entering into "reading hypnosis" where one is only "pantomiming the act of reading", that is following the words one at a time and turning pages, but having ceased to truly analyze and understand what one is reading. 
-
-One possible remedy to reading hypnosis is a more active reading approach of taking short notes and regularly checking one's understanding.
+[[reading hypnosis]]
 # Chapter 6: Principle 3: Directness: Go Straight Ahead
 92
 A direct learning approach is often difficult and uncomfortable. For example, speaking a language that you are learning.  It can be very tempting to fall into poorer learning strategies by doing something that seems easier and more fun, like simply watching videos about the language you are learning.
@@ -103,9 +101,36 @@ Some basic tactics for direct learning are:
 4. **Overkill** - Increase the challenge so the "skill level is wholly contained within the goal that is set."
 
 # Chapter 7: Principle 4: Drill: Attack Your Weakest Point
-- 110 identify rate determining step in learning and drill on it
-- 112 seeming tension between direct and drill, but you have to alternate between them
-- 113 difficulties in drills: what to drill (experiment), design drills to produce improvement, drills after hard because your focus on what's weak
+110
+If you have gone through the metalearning process to break down your learning into atomic skills and processes, try to identify the "rate-determining step" in your learning. What that means is the particular skill that slows you down the most or affects your practice the most from a lack of mastery of that skill. 
+
+Identify your rate determining step in learning whatever you're learning, then find a way to isolate it and drill on it specifically.
+
+112
+There is an apparent tension between the direct learning method of practicing a skill in an environment as close to the real one as possible, and the drill approach - isolating atomic aspects of what you're learning and drilling on them in isolation. 
+
+But while they take opposite approaches, these two methods are both just tools in the learning toolbox.  People in a self-education project can alternate between the two; this can be called a "direct-then-drill" approach. 
+
+First, try to practice the larger skill directly: figuring our how the skill is used and practice it in the same context or environment.  Then, figure out which atomic aspects of that skill need work, isolate them, and drill on them.
+
+A good way to think of it is: first bring it together, then take it apart. Then bring it together again. 
+
+Earlier in the learning process, cycle between Direct and Drill faster. The more advanced you get, the more you can focus on advanced drills to further refine each aspect of what you're learning.
+
+113
+difficulties in drills: what to drill (experiment), design drills to produce improvement, drills after hard because your focus on what's weak
+
+Designing good drills to attack learning problems is a subtle skill. There are some problems in the way of designing effective drills:
+1. Figuring out what to drill on (and when to drill). It helps to find the rate-determining step in your that affects your learning the most, and drill on that. A good question to ask is "What skill can I improve that will give me the most overall benefit for the least effort?"  What delivers the biggest bang?
+2. Designing the drill correctly. Be careful not to, in designing the drill, take away what makes that skill difficult in the real world. 
+3. Doing drills is hard! Avoid the temptation to keep them easy and comfortable. Don't be afraid to have things feel hard while you're learning.
+
+Here are a few broad types of drill to keep in mind when designing drills for your self-education project:
+1. **Time slicing** - Isolate one part of a sequence of steps and work on that step alone.
+2. **Cognitive components** - Isolate one piece of what you're learning, such as grammar from overall language learning.
+3. **Copycat** - The parts of the skill that you are _not_ drilling on at the moment, feel free to copy those from somewhere else.
+4. **Magnifying glass** - Spend more time on one part of the skill than you normally would, even though you do all the rest of the steps too.
+5. **Prerequisite chaining** - Start somewhere, anywhere! When you realize there is a certain dependency, or prerequisite that you need, start learning _that_ dependency, and so on. Eventually you'll build foundational knowledge and skills.
 # Chapter 8: Principle 5: Retrieval: Test to Learn
 - 123 principle of feedback, possible explanation, but also active vs passive learning
 - 124 why students prefer less effective passive review to active recall: avoidance of feeling of struggling, feeling like they're not ready yet, don't know it well enough to test themselves

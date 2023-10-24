@@ -18,5 +18,5 @@ There are no specific repeatable steps to an ultralearning project; it will look
 - 
 # Topics
 
-- [[Self-education]]
+- [[self-education]]
 - [[metalearning]]

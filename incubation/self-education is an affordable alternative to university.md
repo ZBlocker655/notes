@@ -10,4 +10,4 @@ The skills required for one's field (especially technology) also change constant
 
 # Topics
 
-- [[Self-education]]
+- [[self-education]]

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ab36d8fe6107a03",
+        "id": "1bb2c69f1b261ebb",
         "type": "tabs",
         "children": [
           {
-            "id": "fc5f9de76bc6f861",
+            "id": "8802262f961c0ab9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literature/2023/Is Tech Lead the WORST Job for Most Programmers.md",
+                "file": "literature/2023/Ultralearning.md",
                 "mode": "source",
                 "source": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature/2023/Is Tech Lead the WORST Job for Most Programmers.md"
+                "file": "literature/2023/Ultralearning.md"
               }
             }
           }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature/2023/Is Tech Lead the WORST Job for Most Programmers.md",
+                "file": "literature/2023/Ultralearning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literature/2023/Is Tech Lead the WORST Job for Most Programmers.md",
+                "file": "literature/2023/Ultralearning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,23 +178,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc5f9de76bc6f861",
+  "active": "8802262f961c0ab9",
   "lastOpenFiles": [
-    "incubation/metalearning.md",
-    "literature/2023/Is Tech Lead the WORST Job for Most Programmers.md",
+    "incubation/reading hypnosis.md",
     "literature/2023/Ultralearning.md",
-    "incubation/ability to learn hard things.md",
-    "incubation/metalearning 10% rule.md",
-    "incubation/how to break down a subject in metalearning phase.md",
-    "incubation/important to ask 'why' in the metalearning phase.md",
-    "incubation/subject expert interview.md",
+    "incubation/flow is not the same thing as deliberate practice.md",
+    "incubation/impulse to procrastinate is short-lived.md",
     "incubation/why, what, and how aspects of metalearning.md",
+    "incubation/subject expert interview.md",
+    "incubation/self-education is an affordable alternative to university.md",
+    "incubation/recognize when you are procrastinating.md",
+    "incubation/reasons to do ultralearning.md",
+    "incubation/overcoming challenges changes how you see yourself.md",
+    "incubation/metalearning 10% rule.md",
+    "incubation/metalearning.md",
+    "incubation/important to ask 'why' in the metalearning phase.md",
+    "incubation/how to break down a subject in metalearning phase.md",
+    "incubation/era of average skills is ending.md",
     "incubation/common principles of ultralearning.md",
     "incubation/best times come from solving difficult challenges.md",
-    "incubation/era of average skills is ending.md",
-    "incubation/overcoming challenges changes how you see yourself.md",
-    "incubation/reasons to do ultralearning.md",
-    "incubation/self-education is an affordable alternative to university.md",
+    "incubation/ability to learn hard things.md",
+    "literature/2023/Is Tech Lead the WORST Job for Most Programmers.md",
     "templates/permanote.md",
     "templates/daily.md",
     "literature/2023/Apache Pulsar in Action.md",

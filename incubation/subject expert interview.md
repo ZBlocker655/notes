@@ -10,4 +10,4 @@ Interviewing an expert in the subject you want to learn is an effective way to d
 # Topics
 
 - [[metalearning]]
-- [[Self-education]]
+- [[self-education]]
