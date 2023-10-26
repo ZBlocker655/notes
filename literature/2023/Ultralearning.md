@@ -132,13 +132,40 @@ Here are a few broad types of drill to keep in mind when designing drills for yo
 4. **Magnifying glass** - Spend more time on one part of the skill than you normally would, even though you do all the rest of the steps too.
 5. **Prerequisite chaining** - Start somewhere, anywhere! When you realize there is a certain dependency, or prerequisite that you need, start learning _that_ dependency, and so on. Eventually you'll build foundational knowledge and skills.
 # Chapter 8: Principle 5: Retrieval: Test to Learn
-- 123 principle of feedback, possible explanation, but also active vs passive learning
-- 124 why students prefer less effective passive review to active recall: avoidance of feeling of struggling, feeling like they're not ready yet, don't know it well enough to test themselves
-- 125 desirable difficulty - wait the correct distance from learning before free recall. Should feel hard but not too
-- 128-9 importance of acquiring a breadth of knowledge, since direct practice alone is not enough to make someone an expert
+123
+principle of feedback, possible explanation, but also active vs passive learning
+
+124
+Although research has shown that active recall outperforms passive study, especially when being tested much later on, many students still prefer passive recall. 
+
+This might be because passive review (i.e. reading it over) works better in the very short term than active recall (trying to remember everything one can _without_ the book) which leaves the student with a more confident feeling than active recall would. 
+
+Also, students might choose passive review because they feel unready to test themselves (a clear sign that they definitely don't know the material yet!) whereas with active recall, it becomes very clear much sooner what they do and don't know.
+
+However, it's active recall that has been shown to more successfully imprint on long-term memory.
+
+125
+The concept of **desirable difficulty** refers to the notion that active recall _should_ come with some level of effort and challenge. If you do active recall _too_ soon after learning, then the information was already in the short-term memory and the recall effort is fairly mundane and useless. 
+
+Wait a little while, on the other hand, before attempting active recall, and you face the challenge of loading the new knowledge from long-term memory. This difficult or effort is shown to cause things to be remembered better in the long run.
+
+Active recall shouldn't be _too_ difficult, however, but it should be just difficult enough. This is what "desirable difficulty" means.
+
+Consider the image of trimming the sail correctly to maximize the force of the wind acting on the sailboat.  In the same way, there is an optimal level of difficulty.
+
+128-9
+Direct practice is only part of what makes someone an expert in a subject. It's also important to acquire a wide breadth of knowledge. Even if you don't possess depth in many of the areas you study, knowing the overall map of knowledge can be very useful in solving a problem well. 
 # Chapter 9: Principle 6: Feedback: Don't Dodge the Punches
-- 149 good feedback hard to predict; adjust so can't tell if will fail or succeed
-- 150 high intensity, rapid feedback. Motivational angle may be more important than actual feedback received
+149
+Successful learners are willing to vary the type of feedback they receive and the tests they give themselves. Otherwise, it's too easy to fall into the trap of always preferring the type of feedback that makes you feel good about yourself. This feeling is to be avoided; it can prevent the most valuable and accurate feedback from reaching you.
+
+150
+When designing the kind of feedback you want to receive during a learning project, aim for feedback that is higher intensity, and more rapid. 
+
+The advantages are:
+- Getting more frequent feedback helps you self-correct faster and in shorter cycles.
+- Getting frequent exposure to feedback helps reduce the fear of feedback that holds us back.
+- Knowing that our work will be constantly evaluated motivates us to try harder and do our best work, and to learn with more intensity.
 # Chapter 10: Principle 7: Retention: Don't Fill a Leaky Bucket
 - 168 most skill go from declarative to procedural, and procedural stays in memory far longer
 - 170 one strategy: try to proceduralize certain amount of knowledge in a study session, also try to choose something central and important, that further knowledge branches from
