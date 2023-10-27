@@ -167,8 +167,15 @@ The advantages are:
 - Getting frequent exposure to feedback helps reduce the fear of feedback that holds us back.
 - Knowing that our work will be constantly evaluated motivates us to try harder and do our best work, and to learn with more intensity.
 # Chapter 10: Principle 7: Retention: Don't Fill a Leaky Bucket
-- 168 most skill go from declarative to procedural, and procedural stays in memory far longer
-- 170 one strategy: try to proceduralize certain amount of knowledge in a study session, also try to choose something central and important, that further knowledge branches from
+168
+Procedural knowledge (which means knowing the steps to do something, like ride a bicycle) works differently from declarative knowledge (simply knowing _about_ something.)  **Procedural knowledge seems to be far more durable in long term memory than declarative knowledge.**
+
+Furthermore, the way you understand a skill often changes from declarative to procedural as you learn it better and better. An example used is typing. When you first learn to type, everything is explicit, and must be considered consciously: where "E" is on the keyboard, for example. But once you master typing, the way you understand it is procedural; you intuitively grasp how to do it, and don't need to think about it.  Once this level of mastery is achieved, the knowledge stays with us far longer. 
+
+The lesson for learning is: aim to study core pieces of knowledge or skills so well that they become procedural: quickly and effortlessly recalled. 
+
+170
+one strategy: try to proceduralize certain amount of knowledge in a study session, also try to choose something central and important, that further knowledge branches from
 # Chapter 11: Principle 8: Intuition: Dig Deep Before Building Up
 - 182-3 experts solve problems using deep mental models, arsenal or stored patterns or chunks, can think in deeper principles
 - 185 struggle makes a difference in learning
