@@ -177,13 +177,23 @@ The lesson for learning is: aim to study core pieces of knowledge or skills so w
 170
 one strategy: try to proceduralize certain amount of knowledge in a study session, also try to choose something central and important, that further knowledge branches from
 # Chapter 11: Principle 8: Intuition: Dig Deep Before Building Up
-- 182-3 experts solve problems using deep mental models, arsenal or stored patterns or chunks, can think in deeper principles
-- 185 struggle makes a difference in learning
-- 187 "sketch the bike", go deeper, take things apart
-- 189 lesson by example helped Feynman learn, feedback rich process to see if you really know
-- 190-1 The less you ask questions about something, more likely you don't know about it, and don't know that you don't know
-- 192 Feynman technique checks the depth of your understanding on a subject
-- 194 Great way to explain a concept is think of God example or analogy
+182-3
+What may appear to be a quality of "magic" or genius in an expert may be explained by the expert having a deep arsenal of mental "chunks", or deeper models about a subject.  Using these mental chunks, an expert can reason more clearly, deeply and effectively about a problem than a beginner can, because the beginning is forced to work from first principles every time, and has no deep mental model to fall back on.
+
+An expert uses their library of chunks, or patterns, to compose solutions to new problems because they can perceive the principles that would be useful to solve or reason about a problem much more quickly than a beginner can.
+
+185
+Struggle makes a difference in learning. It is worthwhile to stay with a difficult problem and strenuously work on solving it. Even if you can't find the answer for a long time, the act of struggle deepens the effectiveness of the learning process, and seems to prime our brains to remember information better.
+
+187 "sketch the bike", go deeper, take things apart
+
+189 lesson by example helped Feynman learn, feedback rich process to see if you really know
+
+190-1 The less you ask questions about something, more likely you don't know about it, and don't know that you don't know
+
+192 Feynman technique checks the depth of your understanding on a subject
+
+194 Great way to explain a concept is think of God example or analogy
 # Chapter 12: Principle 9: Experimentation: Explore Outside Your Comfort Zone
 - 202 relentlessly continue experimenting
 - 203-4 learning a skill begins with accumulating knowledge but later is unlearning stale and unhelpful techniques. A master figures out the best way to solve problems. Experimentation is how
