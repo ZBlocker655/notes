@@ -1,4 +1,4 @@
----
+ ---
 type: book
 author: Scott Young
 year: 2019
