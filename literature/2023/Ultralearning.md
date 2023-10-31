@@ -185,11 +185,22 @@ An expert uses their library of chunks, or patterns, to compose solutions to new
 185
 Struggle makes a difference in learning. It is worthwhile to stay with a difficult problem and strenuously work on solving it. Even if you can't find the answer for a long time, the act of struggle deepens the effectiveness of the learning process, and seems to prime our brains to remember information better.
 
-187 "sketch the bike", go deeper, take things apart
+187 
+It is a common problem that we think we understand a concept better than we actually do. Often our understand goes deep enough for casual understanding, but not deep enough that we are an expert.  We are poor judges, as well, of how deeply we understand. 
 
-189 lesson by example helped Feynman learn, feedback rich process to see if you really know
+Richard Feynman was famously for his efforts to completely take a subject apart and try to put it back together himself, in order to understand it from the inside out, even if he incurred temporary inconvenience in redoing painstaking work that someone else had already done. 
 
-190-1 The less you ask questions about something, more likely you don't know about it, and don't know that you don't know
+A way to illustrate that the depth of our understanding is an illusion is to sketch an object that we find commonplace but has a degree of complexity, such as a bicycle. Sketch a bike and see how accurately you can reproduce its structure and all of its components and peripherals.
+
+189
+Learning by example is a powerful method. It forces a deeper understanding of the subject, because you are forced to apply what you _think_ you know and make it work in a real (even if contrived) situation. 
+
+It is usually worthwhile to come up with a real example, if there is not one present in the lesson.
+
+It is considered a "feedback-rich process" because it helps you see how well you truly understand what you are learning.
+
+190-1
+The less you ask questions about something, more likely you don't know about it, and don't know that you don't know
 
 192 Feynman technique checks the depth of your understanding on a subject
 
