@@ -200,14 +200,43 @@ It is usually worthwhile to come up with a real example, if there is not one pre
 It is considered a "feedback-rich process" because it helps you see how well you truly understand what you are learning.
 
 190-1
-The less you ask questions about something, more likely you don't know about it, and don't know that you don't know
+The more you learn about a subject the more question come up about it. Exploring these questions and coming up with more questions as a result is a path to expertise. Conversely, if you don't tend to ask questions, not only will you not deepen your understanding of a subject, but the more you will have an inflated opinion of your own understanding.  In other words, you will not know how little you really know.  This is called the **Dunning-Kruger Effect**.
 
-192 Feynman technique checks the depth of your understanding on a subject
+192
+The Feynman Technique is a simple method pioneered by Richard Feynman that helps you check the depth of your understanding of a subject and, where that understanding is lacking, improve it and check it again in iterative cycles.
 
-194 Great way to explain a concept is think of God example or analogy
+**How the method works**
+
+- Study some material.
+- Try to explain the idea (either to someone else, or journal as though you were explaining to someone else).
+	- If it is a concept, explain it as though the audience had never heard it before.
+	- If it is a problem, solve in a way that makes complete sense to you (and explain why it makes sense.)
+- If you are unable to fully explain, highlight where you seem stuck, and go back and study again.
+
+194
+For explaining or understanding difficult concepts, instead of diving into the details of the concept in a straightforward way, approach understanding using concrete examples, or create an analogy to link the concept to another one more familiar to the audience.
 # Chapter 12: Principle 9: Experimentation: Explore Outside Your Comfort Zone
-- 202 relentlessly continue experimenting
-- 203-4 learning a skill begins with accumulating knowledge but later is unlearning stale and unhelpful techniques. A master figures out the best way to solve problems. Experimentation is how
-- 204-5 experiment with: what to learn from, what to learn next
-- 208 experimental mindset extension of growth mindset; actual plan to grow
-- 208 tactics
+202
+Relentlessly experiment with the subject you are learning. Attack it with a variety of methods and approaches, and push hard to understand and master what you are learning.
+
+203-4
+Experimentation is the learning tool that provides a path toward true mastery. When in the beginning phase of learning a subject, you can use metalearning techniques to understand the ladder of how to gain knowledge in a subject, and learn basic procedures. 
+
+As time goes by, metalearning becomes less helpful than experimentation, because you get to areas where it's not as clear how to progress forward and there are fewer guidelines. You must experiment to understand better and better.
+
+In addition, the later phases of mastery are less about falling back on rote learning and rote methods, but in a deeper understanding on the best way to solve problems. This often requires a process of "unlearning" the previous rote knowledge and replacing it with the ability to experiment and be able to be creative and solve new and tougher types of problems.
+
+204-5
+There are different axes along which to experiment.  One axis is the methods and tools used.  You can try different resources and methods.  Another axis is to experiment with techniques, perhaps even developing new ones.  It's asking the question "What can I learn next?" and experimenting based on that.
+
+208
+Experimentation is a practical extension of the growth mindset. Whereas the growth mindset encourages you to always see that there is more to learn, experimentation is how you develop a practical path to realize that potential and actually learn more things.
+
+208
+Methods of experimentation
+
+- Copy or emulate something done by someone else, then attempt a variation.
+- Try two different approaches to a problem side-by-side and only change one variable, to isolate it and test what difference it makes.
+- Strategically introduce new constraints to force you _not_ to use a previous approach and innovate into something new.
+- Combine skills that don't necessarily overlap to produce a new, hybrid compound skill.
+- Go outside conventions to some extreme to discover what's possible.

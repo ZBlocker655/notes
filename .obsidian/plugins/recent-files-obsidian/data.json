@@ -5,6 +5,14 @@
       "path": "literature/2023/Ultralearning.md"
     },
     {
+      "basename": "Apache Pulsar in Action",
+      "path": "literature/2023/Apache Pulsar in Action.md"
+    },
+    {
+      "basename": "Is Tech Lead the WORST Job for Most Programmers",
+      "path": "literature/2023/Is Tech Lead the WORST Job for Most Programmers.md"
+    },
+    {
       "basename": "reading hypnosis",
       "path": "incubation/reading hypnosis.md"
     },
@@ -73,20 +81,12 @@
       "path": "incubation/ability to learn hard things.md"
     },
     {
-      "basename": "Is Tech Lead the WORST Job for Most Programmers",
-      "path": "literature/2023/Is Tech Lead the WORST Job for Most Programmers.md"
-    },
-    {
       "basename": "permanote",
       "path": "templates/permanote.md"
     },
     {
       "basename": "daily",
       "path": "templates/daily.md"
-    },
-    {
-      "basename": "Apache Pulsar in Action",
-      "path": "literature/2023/Apache Pulsar in Action.md"
     },
     {
       "basename": "README",
