@@ -1,84 +1,184 @@
 {
   "recentFiles": [
     {
-      "basename": "Ultralearning",
-      "path": "literature/2023/Ultralearning.md"
-    },
-    {
-      "basename": "Apache Pulsar in Action",
-      "path": "literature/2023/Apache Pulsar in Action.md"
+      "basename": "A Contrarian View of Software Architecture - Jeremy Miller - NDC Oslo 2023",
+      "path": "literature/2023/A Contrarian View of Software Architecture - Jeremy Miller - NDC Oslo 2023.md"
     },
     {
       "basename": "Is Tech Lead the WORST Job for Most Programmers",
       "path": "literature/2023/Is Tech Lead the WORST Job for Most Programmers.md"
     },
     {
-      "basename": "reading hypnosis",
-      "path": "incubation/reading hypnosis.md"
+      "basename": "Ultralearning",
+      "path": "literature/2023/Ultralearning.md"
     },
     {
-      "basename": "flow is not the same thing as deliberate practice",
-      "path": "incubation/flow is not the same thing as deliberate practice.md"
+      "basename": "cycle between direct learning and drill",
+      "path": "permanent/cycle between direct learning and drill.md"
     },
     {
-      "basename": "impulse to procrastinate is short-lived",
-      "path": "incubation/impulse to procrastinate is short-lived.md"
-    },
-    {
-      "basename": "why, what, and how aspects of metalearning",
-      "path": "incubation/why, what, and how aspects of metalearning.md"
-    },
-    {
-      "basename": "subject expert interview",
-      "path": "incubation/subject expert interview.md"
-    },
-    {
-      "basename": "self-education is an affordable alternative to university",
-      "path": "incubation/self-education is an affordable alternative to university.md"
-    },
-    {
-      "basename": "recognize when you are procrastinating",
-      "path": "incubation/recognize when you are procrastinating.md"
-    },
-    {
-      "basename": "reasons to do ultralearning",
-      "path": "incubation/reasons to do ultralearning.md"
-    },
-    {
-      "basename": "overcoming challenges changes how you see yourself",
-      "path": "incubation/overcoming challenges changes how you see yourself.md"
-    },
-    {
-      "basename": "metalearning 10% rule",
-      "path": "incubation/metalearning 10% rule.md"
-    },
-    {
-      "basename": "metalearning",
-      "path": "incubation/metalearning.md"
-    },
-    {
-      "basename": "important to ask 'why' in the metalearning phase",
-      "path": "incubation/important to ask 'why' in the metalearning phase.md"
-    },
-    {
-      "basename": "how to break down a subject in metalearning phase",
-      "path": "incubation/how to break down a subject in metalearning phase.md"
-    },
-    {
-      "basename": "era of average skills is ending",
-      "path": "incubation/era of average skills is ending.md"
-    },
-    {
-      "basename": "common principles of ultralearning",
-      "path": "incubation/common principles of ultralearning.md"
-    },
-    {
-      "basename": "best times come from solving difficult challenges",
-      "path": "incubation/best times come from solving difficult challenges.md"
+      "basename": "aim for procedural knowledge",
+      "path": "permanent/aim for procedural knowledge.md"
     },
     {
       "basename": "ability to learn hard things",
-      "path": "incubation/ability to learn hard things.md"
+      "path": "permanent/ability to learn hard things.md"
+    },
+    {
+      "basename": "methods of experimentation",
+      "path": "permanent/methods of experimentation.md"
+    },
+    {
+      "basename": "experimentation is a practical extension of the growth mindset",
+      "path": "permanent/experimentation is a practical extension of the growth mindset.md"
+    },
+    {
+      "basename": "axes of experimentation",
+      "path": "permanent/axes of experimentation.md"
+    },
+    {
+      "basename": "experimentation is a path to mastery",
+      "path": "permanent/experimentation is a path to mastery.md"
+    },
+    {
+      "basename": "relentlessly experiment",
+      "path": "permanent/relentlessly experiment.md"
+    },
+    {
+      "basename": "learning by example is effective",
+      "path": "permanent/learning by example is effective.md"
+    },
+    {
+      "basename": "Feynman Technique",
+      "path": "permanent/Feynman Technique.md"
+    },
+    {
+      "basename": "keep asking questions to learn",
+      "path": "permanent/keep asking questions to learn.md"
+    },
+    {
+      "basename": "sketch a bike",
+      "path": "permanent/sketch a bike.md"
+    },
+    {
+      "basename": "struggle matters in learning",
+      "path": "permanent/struggle matters in learning.md"
+    },
+    {
+      "basename": "deeper mental models allow for more effective reasoning",
+      "path": "permanent/deeper mental models allow for more effective reasoning.md"
+    },
+    {
+      "basename": "aim for frequent feedback",
+      "path": "permanent/aim for frequent feedback.md"
+    },
+    {
+      "basename": "vary learning feedback",
+      "path": "permanent/vary learning feedback.md"
+    },
+    {
+      "basename": "direct learning is not enough by itself",
+      "path": "permanent/direct learning is not enough by itself.md"
+    },
+    {
+      "basename": "desirable difficulty",
+      "path": "permanent/desirable difficulty.md"
+    },
+    {
+      "basename": "many students prefer passive recall to active recall",
+      "path": "permanent/many students prefer passive recall to active recall.md"
+    },
+    {
+      "basename": "designing drills for learning",
+      "path": "permanent/designing drills for learning.md"
+    },
+    {
+      "basename": "drill on your rate-determining step",
+      "path": "permanent/drill on your rate-determining step.md"
+    },
+    {
+      "basename": "tactics for direct learning",
+      "path": "permanent/tactics for direct learning.md"
+    },
+    {
+      "basename": "direct learning can help solve the problem of transfer",
+      "path": "permanent/direct learning can help solve the problem of transfer.md"
+    },
+    {
+      "basename": "problem of transfer",
+      "path": "permanent/problem of transfer.md"
+    },
+    {
+      "basename": "direct learning is difficult",
+      "path": "permanent/direct learning is difficult.md"
+    },
+    {
+      "basename": "metalearning 10% rule",
+      "path": "permanent/metalearning 10% rule.md"
+    },
+    {
+      "basename": "impulse to procrastinate is short-lived",
+      "path": "permanent/impulse to procrastinate is short-lived.md"
+    },
+    {
+      "basename": "metalearning",
+      "path": "permanent/metalearning.md"
+    },
+    {
+      "basename": "important to ask 'why' in the metalearning phase",
+      "path": "permanent/important to ask 'why' in the metalearning phase.md"
+    },
+    {
+      "basename": "how to break down a subject in metalearning phase",
+      "path": "permanent/how to break down a subject in metalearning phase.md"
+    },
+    {
+      "basename": "flow is not the same thing as deliberate practice",
+      "path": "permanent/flow is not the same thing as deliberate practice.md"
+    },
+    {
+      "basename": "era of average skills is ending",
+      "path": "permanent/era of average skills is ending.md"
+    },
+    {
+      "basename": "common principles of ultralearning",
+      "path": "permanent/common principles of ultralearning.md"
+    },
+    {
+      "basename": "best times come from solving difficult challenges",
+      "path": "permanent/best times come from solving difficult challenges.md"
+    },
+    {
+      "basename": "Apache Pulsar in Action",
+      "path": "literature/2023/Apache Pulsar in Action.md"
+    },
+    {
+      "basename": "reading hypnosis",
+      "path": "permanent/reading hypnosis.md"
+    },
+    {
+      "basename": "why, what, and how aspects of metalearning",
+      "path": "permanent/why, what, and how aspects of metalearning.md"
+    },
+    {
+      "basename": "subject expert interview",
+      "path": "permanent/subject expert interview.md"
+    },
+    {
+      "basename": "self-education is an affordable alternative to university",
+      "path": "permanent/self-education is an affordable alternative to university.md"
+    },
+    {
+      "basename": "recognize when you are procrastinating",
+      "path": "permanent/recognize when you are procrastinating.md"
+    },
+    {
+      "basename": "reasons to do ultralearning",
+      "path": "permanent/reasons to do ultralearning.md"
+    },
+    {
+      "basename": "overcoming challenges changes how you see yourself",
+      "path": "permanent/overcoming challenges changes how you see yourself.md"
     },
     {
       "basename": "permanote",

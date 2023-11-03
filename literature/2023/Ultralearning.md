@@ -75,168 +75,80 @@ Prepare your environment well for an ultralearning project. Try to remove distra
 [[reading hypnosis]]
 # Chapter 6: Principle 3: Directness: Go Straight Ahead
 92
-A direct learning approach is often difficult and uncomfortable. For example, speaking a language that you are learning.  It can be very tempting to fall into poorer learning strategies by doing something that seems easier and more fun, like simply watching videos about the language you are learning.
+[[direct learning is difficult]]
 
 94
-**Transfer** is a word used in education to describe when you learn something in one context, and are able to apply it in a completely different context.
-
-It is an ability that formal education has notoriously failed to instill in many students.  This institutional failure to help students apply what they have learned in other contexts is therefore called the **Problem of Transfer**.
+[[problem of transfer]]
 
 97-99
-Directness in learning can help solve the problem of transfer. 
-
-If you learn with a "direct connection" to the context in which you want to apply the skill, you don't need as much transfer to occur. 
-
-Furthermore, if you can achieve transfer once in a given skill, it becomes even easier to achieve transfer with that same skill in completely _new_ contexts.
-
-One reason that formal learning doesn't prepare students well for transfer is that this kind of learning is indirect (context-free) rather than direct.
-
-Another way to express this is that you should "learn knowledge as it interacts with reality." That is, always keep your desired context in mind _as_ you learn. Do not learn context-free.  "Build knowledge outward from the kernel of a real situation."
+[[direct learning can help solve the problem of transfer]]
 
 101
-Some basic tactics for direct learning are:
-1. **Project** - Produce or create something related to what you're learning. If you're learning a coding language, for example, do a project to build something using that language.
-2. **Immersive** - Surround yourself with the environment where you must always be practicing the skill. If you're learning to speak a language, put yourself among people speaking that language.
-3. **Simulator** - If you can't practice a skill directly (e.g. performing surgery) do the best you can to simulate it accurately.
-4. **Overkill** - Increase the challenge so the "skill level is wholly contained within the goal that is set."
+[[tactics for direct learning]]
 
 # Chapter 7: Principle 4: Drill: Attack Your Weakest Point
 110
-If you have gone through the metalearning process to break down your learning into atomic skills and processes, try to identify the "rate-determining step" in your learning. What that means is the particular skill that slows you down the most or affects your practice the most from a lack of mastery of that skill. 
-
-Identify your rate determining step in learning whatever you're learning, then find a way to isolate it and drill on it specifically.
+[[drill on your rate-determining step]]
 
 112
-There is an apparent tension between the direct learning method of practicing a skill in an environment as close to the real one as possible, and the drill approach - isolating atomic aspects of what you're learning and drilling on them in isolation. 
-
-But while they take opposite approaches, these two methods are both just tools in the learning toolbox.  People in a self-education project can alternate between the two; this can be called a "direct-then-drill" approach. 
-
-First, try to practice the larger skill directly: figuring our how the skill is used and practice it in the same context or environment.  Then, figure out which atomic aspects of that skill need work, isolate them, and drill on them.
-
-A good way to think of it is: first bring it together, then take it apart. Then bring it together again. 
-
-Earlier in the learning process, cycle between Direct and Drill faster. The more advanced you get, the more you can focus on advanced drills to further refine each aspect of what you're learning.
+[[cycle between direct learning and drill]]
 
 113
-difficulties in drills: what to drill (experiment), design drills to produce improvement, drills after hard because your focus on what's weak
-
-Designing good drills to attack learning problems is a subtle skill. There are some problems in the way of designing effective drills:
-1. Figuring out what to drill on (and when to drill). It helps to find the rate-determining step in your that affects your learning the most, and drill on that. A good question to ask is "What skill can I improve that will give me the most overall benefit for the least effort?"  What delivers the biggest bang?
-2. Designing the drill correctly. Be careful not to, in designing the drill, take away what makes that skill difficult in the real world. 
-3. Doing drills is hard! Avoid the temptation to keep them easy and comfortable. Don't be afraid to have things feel hard while you're learning.
-
-Here are a few broad types of drill to keep in mind when designing drills for your self-education project:
-1. **Time slicing** - Isolate one part of a sequence of steps and work on that step alone.
-2. **Cognitive components** - Isolate one piece of what you're learning, such as grammar from overall language learning.
-3. **Copycat** - The parts of the skill that you are _not_ drilling on at the moment, feel free to copy those from somewhere else.
-4. **Magnifying glass** - Spend more time on one part of the skill than you normally would, even though you do all the rest of the steps too.
-5. **Prerequisite chaining** - Start somewhere, anywhere! When you realize there is a certain dependency, or prerequisite that you need, start learning _that_ dependency, and so on. Eventually you'll build foundational knowledge and skills.
+[[designing drills for learning]]
 # Chapter 8: Principle 5: Retrieval: Test to Learn
 123
 principle of feedback, possible explanation, but also active vs passive learning
 
 124
-Although research has shown that active recall outperforms passive study, especially when being tested much later on, many students still prefer passive recall. 
-
-This might be because passive review (i.e. reading it over) works better in the very short term than active recall (trying to remember everything one can _without_ the book) which leaves the student with a more confident feeling than active recall would. 
-
-Also, students might choose passive review because they feel unready to test themselves (a clear sign that they definitely don't know the material yet!) whereas with active recall, it becomes very clear much sooner what they do and don't know.
-
-However, it's active recall that has been shown to more successfully imprint on long-term memory.
+[[many students prefer passive recall to active recall]]
 
 125
-The concept of **desirable difficulty** refers to the notion that active recall _should_ come with some level of effort and challenge. If you do active recall _too_ soon after learning, then the information was already in the short-term memory and the recall effort is fairly mundane and useless. 
-
-Wait a little while, on the other hand, before attempting active recall, and you face the challenge of loading the new knowledge from long-term memory. This difficult or effort is shown to cause things to be remembered better in the long run.
-
-Active recall shouldn't be _too_ difficult, however, but it should be just difficult enough. This is what "desirable difficulty" means.
-
-Consider the image of trimming the sail correctly to maximize the force of the wind acting on the sailboat.  In the same way, there is an optimal level of difficulty.
+[[desirable difficulty]]
 
 128-9
-Direct practice is only part of what makes someone an expert in a subject. It's also important to acquire a wide breadth of knowledge. Even if you don't possess depth in many of the areas you study, knowing the overall map of knowledge can be very useful in solving a problem well. 
+[[direct learning is not enough by itself]]
 # Chapter 9: Principle 6: Feedback: Don't Dodge the Punches
 149
-Successful learners are willing to vary the type of feedback they receive and the tests they give themselves. Otherwise, it's too easy to fall into the trap of always preferring the type of feedback that makes you feel good about yourself. This feeling is to be avoided; it can prevent the most valuable and accurate feedback from reaching you.
+[[vary learning feedback]]
 
 150
-When designing the kind of feedback you want to receive during a learning project, aim for feedback that is higher intensity, and more rapid. 
-
-The advantages are:
-- Getting more frequent feedback helps you self-correct faster and in shorter cycles.
-- Getting frequent exposure to feedback helps reduce the fear of feedback that holds us back.
-- Knowing that our work will be constantly evaluated motivates us to try harder and do our best work, and to learn with more intensity.
+[[aim for frequent feedback]]
 # Chapter 10: Principle 7: Retention: Don't Fill a Leaky Bucket
 168
-Procedural knowledge (which means knowing the steps to do something, like ride a bicycle) works differently from declarative knowledge (simply knowing _about_ something.)  **Procedural knowledge seems to be far more durable in long term memory than declarative knowledge.**
-
-Furthermore, the way you understand a skill often changes from declarative to procedural as you learn it better and better. An example used is typing. When you first learn to type, everything is explicit, and must be considered consciously: where "E" is on the keyboard, for example. But once you master typing, the way you understand it is procedural; you intuitively grasp how to do it, and don't need to think about it.  Once this level of mastery is achieved, the knowledge stays with us far longer. 
-
-The lesson for learning is: aim to study core pieces of knowledge or skills so well that they become procedural: quickly and effortlessly recalled. 
+[[aim for procedural knowledge]]
 
 170
 one strategy: try to proceduralize certain amount of knowledge in a study session, also try to choose something central and important, that further knowledge branches from
 # Chapter 11: Principle 8: Intuition: Dig Deep Before Building Up
 182-3
-What may appear to be a quality of "magic" or genius in an expert may be explained by the expert having a deep arsenal of mental "chunks", or deeper models about a subject.  Using these mental chunks, an expert can reason more clearly, deeply and effectively about a problem than a beginner can, because the beginning is forced to work from first principles every time, and has no deep mental model to fall back on.
-
-An expert uses their library of chunks, or patterns, to compose solutions to new problems because they can perceive the principles that would be useful to solve or reason about a problem much more quickly than a beginner can.
+[[deeper mental models allow for more effective reasoning]]
 
 185
-Struggle makes a difference in learning. It is worthwhile to stay with a difficult problem and strenuously work on solving it. Even if you can't find the answer for a long time, the act of struggle deepens the effectiveness of the learning process, and seems to prime our brains to remember information better.
+[[struggle matters in learning]]
 
 187 
-It is a common problem that we think we understand a concept better than we actually do. Often our understand goes deep enough for casual understanding, but not deep enough that we are an expert.  We are poor judges, as well, of how deeply we understand. 
+[[sketch a bike]]
 
-Richard Feynman was famously for his efforts to completely take a subject apart and try to put it back together himself, in order to understand it from the inside out, even if he incurred temporary inconvenience in redoing painstaking work that someone else had already done. 
-
-A way to illustrate that the depth of our understanding is an illusion is to sketch an object that we find commonplace but has a degree of complexity, such as a bicycle. Sketch a bike and see how accurately you can reproduce its structure and all of its components and peripherals.
-
-189
-Learning by example is a powerful method. It forces a deeper understanding of the subject, because you are forced to apply what you _think_ you know and make it work in a real (even if contrived) situation. 
-
-It is usually worthwhile to come up with a real example, if there is not one present in the lesson.
-
-It is considered a "feedback-rich process" because it helps you see how well you truly understand what you are learning.
+189, 194
+[[learning by example is effective]]
 
 190-1
-The more you learn about a subject the more question come up about it. Exploring these questions and coming up with more questions as a result is a path to expertise. Conversely, if you don't tend to ask questions, not only will you not deepen your understanding of a subject, but the more you will have an inflated opinion of your own understanding.  In other words, you will not know how little you really know.  This is called the **Dunning-Kruger Effect**.
+[[keep asking questions to learn]]
 
 192
-The Feynman Technique is a simple method pioneered by Richard Feynman that helps you check the depth of your understanding of a subject and, where that understanding is lacking, improve it and check it again in iterative cycles.
-
-**How the method works**
-
-- Study some material.
-- Try to explain the idea (either to someone else, or journal as though you were explaining to someone else).
-	- If it is a concept, explain it as though the audience had never heard it before.
-	- If it is a problem, solve in a way that makes complete sense to you (and explain why it makes sense.)
-- If you are unable to fully explain, highlight where you seem stuck, and go back and study again.
-
-194
-For explaining or understanding difficult concepts, instead of diving into the details of the concept in a straightforward way, approach understanding using concrete examples, or create an analogy to link the concept to another one more familiar to the audience.
+[[Feynman Technique]]
 # Chapter 12: Principle 9: Experimentation: Explore Outside Your Comfort Zone
 202
-Relentlessly experiment with the subject you are learning. Attack it with a variety of methods and approaches, and push hard to understand and master what you are learning.
+[[relentlessly experiment]]
 
 203-4
-Experimentation is the learning tool that provides a path toward true mastery. When in the beginning phase of learning a subject, you can use metalearning techniques to understand the ladder of how to gain knowledge in a subject, and learn basic procedures. 
-
-As time goes by, metalearning becomes less helpful than experimentation, because you get to areas where it's not as clear how to progress forward and there are fewer guidelines. You must experiment to understand better and better.
-
-In addition, the later phases of mastery are less about falling back on rote learning and rote methods, but in a deeper understanding on the best way to solve problems. This often requires a process of "unlearning" the previous rote knowledge and replacing it with the ability to experiment and be able to be creative and solve new and tougher types of problems.
+[[experimentation is a path to mastery]]
 
 204-5
-There are different axes along which to experiment.  One axis is the methods and tools used.  You can try different resources and methods.  Another axis is to experiment with techniques, perhaps even developing new ones.  It's asking the question "What can I learn next?" and experimenting based on that.
+[[axes of experimentation]]
 
 208
-Experimentation is a practical extension of the growth mindset. Whereas the growth mindset encourages you to always see that there is more to learn, experimentation is how you develop a practical path to realize that potential and actually learn more things.
+[[experimentation is a practical extension of the growth mindset]]
 
 208
-Methods of experimentation
-
-- Copy or emulate something done by someone else, then attempt a variation.
-- Try two different approaches to a problem side-by-side and only change one variable, to isolate it and test what difference it makes.
-- Strategically introduce new constraints to force you _not_ to use a previous approach and innovate into something new.
-- Combine skills that don't necessarily overlap to produce a new, hybrid compound skill.
-- Go outside conventions to some extreme to discover what's possible.
+[[methods of experimentation]]
