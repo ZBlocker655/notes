@@ -1,0 +1,17 @@
+---
+type: video
+url: https://www.youtube.com/watch?v=HaEPXoXVf2k&ab_channel=AmazonWebServices
+channel: Amazon Web Services
+year: 2018
+subjects:
+- [[nosql data modeling]]
+- [[dynamodb]]
+---
+
+5:00 
+
+# NoSQL data modeling optimizes for CPU at the expense of storage
+
+One of the drivers behind the development of relational databases was that in the late 1970s, storage was the most expensive component in the computer system, so it made sense to minimize it when possible.  Relational modeling involves normalizing data, so that any given piece of information appears only in one place (one table, one row).  On the other hand, this means the CPU has to work harder (to join tables, compute result views, etc.)
+
+On the other hand, in today's world, the CPU is the more expensive resource, whereas storage has become much cheaper. This has been one of the drivers behind the development of NoSQL databases, which minimize CPU time (since we don't generally do joins or other expensive query computation) but maximize storage through denormalized modeling, duplication of data, etc.

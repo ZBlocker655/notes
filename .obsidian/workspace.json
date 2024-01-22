@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "literature/2024/AWS re-Invent 2018 - Amazon DynamoDB Deep Dive - Advanced Design Patterns for DynamoDB (DAT401).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6310c37951d88596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "literature/2023/A Contrarian View of Software Architecture - Jeremy Miller - NDC Oslo 2023.md",
                 "mode": "source",
                 "source": true
@@ -114,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature/2023/A Contrarian View of Software Architecture - Jeremy Miller - NDC Oslo 2023.md"
+                "file": "literature/2024/AWS re-Invent 2018 - Amazon DynamoDB Deep Dive - Advanced Design Patterns for DynamoDB (DAT401).md"
               }
             }
           }
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature/2023/A Contrarian View of Software Architecture - Jeremy Miller - NDC Oslo 2023.md",
+                "file": "literature/2024/AWS re-Invent 2018 - Amazon DynamoDB Deep Dive - Advanced Design Patterns for DynamoDB (DAT401).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literature/2023/A Contrarian View of Software Architecture - Jeremy Miller - NDC Oslo 2023.md",
+                "file": "literature/2024/AWS re-Invent 2018 - Amazon DynamoDB Deep Dive - Advanced Design Patterns for DynamoDB (DAT401).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,8 +192,10 @@
   },
   "active": "5a3cbafbf9cdc13a",
   "lastOpenFiles": [
-    "literature/2023/Is Tech Lead the WORST Job for Most Programmers.md",
     "literature/2023/A Contrarian View of Software Architecture - Jeremy Miller - NDC Oslo 2023.md",
+    "literature/2024/AWS re-Invent 2018 - Amazon DynamoDB Deep Dive - Advanced Design Patterns for DynamoDB (DAT401).md",
+    "literature/2024",
+    "literature/2023/Is Tech Lead the WORST Job for Most Programmers.md",
     "literature/2023/Ultralearning.md",
     "permanent/cycle between direct learning and drill.md",
     "permanent/aim for procedural knowledge.md",
@@ -205,7 +219,6 @@
     "permanent/designing drills for learning.md",
     "permanent/drill on your rate-determining step.md",
     "permanent/tactics for direct learning.md",
-    "permanent/direct learning can help solve the problem of transfer.md",
     "literature/2023"
   ]
 }
