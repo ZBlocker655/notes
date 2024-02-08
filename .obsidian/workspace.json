@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3458dc6eac019076",
+        "id": "ddb7676ea9654975",
         "type": "tabs",
         "children": [
           {
-            "id": "5a3cbafbf9cdc13a",
+            "id": "b8409655fda58595",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "literature/2024/AWS re-Invent 2018 - Amazon DynamoDB Deep Dive - Advanced Design Patterns for DynamoDB (DAT401).md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -113,9 +109,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "literature/2024/AWS re-Invent 2018 - Amazon DynamoDB Deep Dive - Advanced Design Patterns for DynamoDB (DAT401).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature/2024/AWS re-Invent 2018 - Amazon DynamoDB Deep Dive - Advanced Design Patterns for DynamoDB (DAT401).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literature/2024/AWS re-Invent 2018 - Amazon DynamoDB Deep Dive - Advanced Design Patterns for DynamoDB (DAT401).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,10 +170,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a3cbafbf9cdc13a",
+  "active": "b8409655fda58595",
   "lastOpenFiles": [
-    "literature/2023/A Contrarian View of Software Architecture - Jeremy Miller - NDC Oslo 2023.md",
+    "permanent/axes of experimentation.md",
     "literature/2024/AWS re-Invent 2018 - Amazon DynamoDB Deep Dive - Advanced Design Patterns for DynamoDB (DAT401).md",
+    "literature/2023/A Contrarian View of Software Architecture - Jeremy Miller - NDC Oslo 2023.md",
     "literature/2024",
     "literature/2023/Is Tech Lead the WORST Job for Most Programmers.md",
     "literature/2023/Ultralearning.md",
@@ -190,7 +183,6 @@
     "permanent/ability to learn hard things.md",
     "permanent/methods of experimentation.md",
     "permanent/experimentation is a practical extension of the growth mindset.md",
-    "permanent/axes of experimentation.md",
     "permanent/experimentation is a path to mastery.md",
     "permanent/relentlessly experiment.md",
     "permanent/learning by example is effective.md",
