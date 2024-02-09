@@ -11,8 +11,12 @@
             "id": "b8409655fda58595",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "permanent/aim for frequent feedback.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -109,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "permanent/aim for frequent feedback.md"
+              }
             }
           }
         ]
@@ -124,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "permanent/aim for frequent feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "permanent/aim for frequent feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
